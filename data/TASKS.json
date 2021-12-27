@@ -1,1 +1,1 @@
-[{"date": "", "name": "B", "status": "In-progress", "tags": [""]}, {"date": "", "name": "C", "status": "In-progress", "tags": [""]}, {"name": "ABC", "tags": [""], "status": "To-do", "date": ""}, {"name": "Buy shampoo", "tags": ["BRUH"], "status": "To-do", "date": "2021/12/16"}]
+[{"name": "DD ", "date": "", "tags": [{"tag": "W", "color": 1}, {"tag": "A", "color": 0}, {"tag": "WA", "color": 1}, {"tag": "Ad", "color": 0}, {"tag": "AAA", "color": 0}], "status": "To-do"}]
